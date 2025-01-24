@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shourya Singh
 =====================================================================================================================================
 
-Web Developer and Designer
+Web Developer
 --------------------------
 
 I've been coding since 2022, starting with languages like C++, C, Python, and SQL. Along the way, I discovered my passion for web development, diving into HTML, CSS, and JavaScript to craft interactive, user-friendly designs. Now, I'm on a journey to master full-stack development, exploring backend technologies and combining creativity with logic to build impactful projects. Always eager to learn, grow, and take on new challenges!
