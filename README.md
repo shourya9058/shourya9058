@@ -7,7 +7,7 @@ Web Developer
 I've been coding since 2022, starting with languages like C++, C, Python, and SQL. Along the way, I discovered my passion for web development, diving into HTML, CSS, and JavaScript to craft interactive, user-friendly designs. Now, I'm on a journey to master full-stack development, exploring backend technologies and combining creativity with logic to build impactful projects. Always eager to learn, grow, and take on new challenges!
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [imshourya07singh@gmail.com](mailto:imshourya07singh@gmail.com)
+* ✉️  You can contact me at [imshourya07singh@gmail.com](mailto:imparas07singh@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on Fun yet real life problem solving Projects
 * ⚡  I'm secretly Spiderman but don't tell anyone
